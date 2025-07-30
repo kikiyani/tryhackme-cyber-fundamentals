@@ -18,6 +18,12 @@ was introduced to shell operators: &( for commands to run in background ), && ( 
 
 
 [COMMANDS TRIED] <img width="542" height="295" alt="image" src="https://github.com/user-attachments/assets/3adf09af-6544-439e-b959-90b0ad2c079a" />
-[BADGE] <img width="1118" height="556" alt="image" src="https://github.com/user-attachments/assets/dbc80b16-88c4-45ac-9f62-47772bb19f3d" />
+[BADGE] <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/dbc80b16-88c4-45ac-9f62-47772bb19f3d" />
 
 
+
+***PENTESTING FUNDAMENTALS***
+In this room, we were introduced with ethical hacking: which is testing and exploiting a system while adhering to security laws. We have different hackers: white hat ( pentesters), grey hat, black hat ( malicious intent hackers ).
+I also came across the stages of pentesting: information gethring ( gathering all possible information publically available regarding the system ), scanning ( to see what services and applications are running on the system and indentifying the vulnerabilities ), exploitation ( exploiting the vulnerabilities ), priviledge escalation ( aceessing other users accounts or maybe accessing admin account ), post exploitation (can invlove reporting, seeing what other points can be exploited ).
+I also did a task of pentesting a company, i looked over the employee accounts, through a blog post accessed the company system IP address and exploited and reported it. 
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/60996f53-3083-48aa-b76e-fb1ecdc37f08" />
