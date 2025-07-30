@@ -16,8 +16,8 @@ was introduced to shell operators: &( for commands to run in background ), && ( 
 
 
 
-
-[COMMANDS TRIED] <img width="542" height="295" alt="image" src="https://github.com/user-attachments/assets/3adf09af-6544-439e-b959-90b0ad2c079a" />
+[COMMANDS TRIED]
+<img width="542" height="295" alt="image" src="https://github.com/user-attachments/assets/3adf09af-6544-439e-b959-90b0ad2c079a" />
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/dbc80b16-88c4-45ac-9f62-47772bb19f3d" />
 
 
@@ -32,5 +32,10 @@ I also did a task of pentesting a company, i looked over the employee accounts, 
 
 ***Ohsint***
 At last i came across this Ohsint task, although it was a bit time taking and difficult but it being my first Ohsint was something fun as well. Most of the details were available on google. i made use of the tool exiftool which provides you with the metadata and got access to the author and by searching found github, blog andtwitter of this person. 
+
+
+
+
+
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/99bc3136-e30a-40f1-8277-65aeb9a071df" />
 
