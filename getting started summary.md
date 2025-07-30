@@ -27,3 +27,10 @@ In this room, we were introduced with ethical hacking: which is testing and expl
 I also came across the stages of pentesting: information gethring ( gathering all possible information publically available regarding the system ), scanning ( to see what services and applications are running on the system and indentifying the vulnerabilities ), exploitation ( exploiting the vulnerabilities ), priviledge escalation ( aceessing other users accounts or maybe accessing admin account ), post exploitation (can invlove reporting, seeing what other points can be exploited ).
 I also did a task of pentesting a company, i looked over the employee accounts, through a blog post accessed the company system IP address and exploited and reported it. 
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/60996f53-3083-48aa-b76e-fb1ecdc37f08" />
+
+
+
+***Ohsint***
+At last i came across this Ohsint task, although it was a bit time taking and difficult but it being my first Ohsint was something fun as well. Most of the details were available on google. i made use of the tool exiftool which provides you with the metadata and got access to the author and by searching found github, blog andtwitter of this person. 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/99bc3136-e30a-40f1-8277-65aeb9a071df" />
+
