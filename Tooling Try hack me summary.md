@@ -10,13 +10,12 @@ TASK 6: This task for alot to learn from. We strted with TCP SYN PING which is 3
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d8e86f23-e880-49e2-80ea-1bae41408323" />
 
 ***HYDRA***
+In this room i learnt about hydra, which is an open source tool where you can do bruteforce attack since manually doing this could take you forever. This room had alot to learn. I learnt how to use hydra tool on different services, the practical task was ssh and web. I was given the username MOLLY and though the txt password file and using the commands i got the two flags. For the web form in hydra we also added the login path to be used and message if credentials are incorrect, which we got to know my trying a combination and using the web developers tools. For the ssh basic command was used of the ssh hydra. 
+
+
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/267eb4dc-7b23-4c42-9802-f2d5e12be292" />
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/18cd8b95-5ad2-4574-a9da-82a1afea6f6e" />
-
-In this room i learnt about hydra, whoch is an open source tool where you can do bruteforce attack since manually doing this could take you forever. This room had alot to run. I learnt how to use hydra tool on different services, the practical task was ssh and web. I was given the username MOLLY and though the txt password file and using the commands i got the two flags. 
-
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1dfc2b76-048d-4599-801b-32d0724ca63b" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/18cd8b95-5ad2-4574-a9da-82a1afea6f6e" /> 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/22f780f3-d756-4663-8489-772813ae48df" />
 
