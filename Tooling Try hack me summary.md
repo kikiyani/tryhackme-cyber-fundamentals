@@ -8,3 +8,17 @@ TASK 4: nmap host discovery using ARP, this was an interesting room since i lear
 TASK 5: this task was about nmap host discovery using ICMP. i came across three different ways we can check for live hosts on a network. ICMP echo packets, ICMP timestamps, ICMP address mask. its better to use all three to get proper results as ICMP ping packets are often blocked by the firewalls by default.
 TASK 6: This task for alot to learn from. We strted with TCP SYN PING which is 3 way handshake AND TCP ACK PING which requires root user. We also git to learn about UDP ping which kind of goes opposite of TCP ping and masscan. 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d8e86f23-e880-49e2-80ea-1bae41408323" />
+
+***HYDRA***
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/267eb4dc-7b23-4c42-9802-f2d5e12be292" />
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/18cd8b95-5ad2-4574-a9da-82a1afea6f6e" />
+
+In this room i learnt about hydra, whoch is an open source tool where you can do bruteforce attack since manually doing this could take you forever. This room had alot to run. I learnt how to use hydra tool on different services, the practical task was ssh and web. I was given the username MOLLY and though the txt password file and using the commands i got the two flags. 
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1dfc2b76-048d-4599-801b-32d0724ca63b" />
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/22f780f3-d756-4663-8489-772813ae48df" />
+
+
+
