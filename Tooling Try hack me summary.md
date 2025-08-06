@@ -21,3 +21,8 @@ In this room i learnt about hydra, which is an open source tool where you can do
 
 
 
+***LINUX PRIV ESCALATION***
+This room is a walkthrough of different linux priviledge escalation techniques you can use. 
+
+
+
