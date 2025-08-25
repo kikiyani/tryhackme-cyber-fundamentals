@@ -22,9 +22,6 @@ In this room i learnt about hydra, which is an open source tool where you can do
 
 
 ***LINUX PRIV ESCALATION***
-This room is a walkthrough of different linux priviledge escalation techniques you can use. The very first one i came across was services that are misconfigured meaning can be easily be run a root the attacker can run them as root and exploit this leading to gaining fulla ccess of the machine. 
-task 2: It was about the weak file permissions, file names shadow in etc had global read permissions hence i could access the password hash for the root user and save it another text file, next i used john the ripper password cracking CLI tool to get the root password and the hash that was used.the vulnerability of the vm here was that the /etc/shadow file was world readable. 
-task 3 and 4: we were given writeable /etc/shadow and /etc/passwd hence by generating a hash for our own new password and replacing the hash of the root in the file with our generated hash, we were able tp log in as the root user. 
-
+This room is a walkthrough of different linux priviledge escalation techniques you can use. I was provided with a vulnerable VM and had to exploit the vulnerabilities in it. Starting with weak file permissions: readable and writeable /etc/shadow and /etc/passwd files. I also came across and learnt about sudo and cron jobs. Among which cron jobs, was entirely a new concept for me. I also played around with SUID/SGID, files that had the S bit and how they can be exploited. Then, comes my favourite one, password and keys. In which, we exploited vulnerabilities related to passwords in command, or config files, or keys hidden in root. lastly, also dealt with NFS, in which concept or root squashing was explored.   
 
 
