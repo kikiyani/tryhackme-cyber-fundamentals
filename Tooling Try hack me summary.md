@@ -27,6 +27,8 @@ This room is a walkthrough of different linux priviledge escalation techniques y
 
 
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/be465f7e-762e-41f2-8259-bbf545af075c" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/be465f7e-762e-41f2-8259-bbf545af075c" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/65e70059-7375-45e5-8252-55b1f67786ec" />
+
 
 
