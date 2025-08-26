@@ -25,3 +25,8 @@ In this room i learnt about hydra, which is an open source tool where you can do
 This room is a walkthrough of different linux priviledge escalation techniques you can use. I was provided with a vulnerable VM and had to exploit the vulnerabilities in it. Starting with weak file permissions: readable and writeable /etc/shadow and /etc/passwd files. I also came across and learnt about sudo and cron jobs. Among which cron jobs, was entirely a new concept for me. I also played around with SUID/SGID, files that had the S bit and how they can be exploited. Then, comes my favourite one, password and keys. In which, we exploited vulnerabilities related to passwords in command, or config files, or keys hidden in root. lastly, also dealt with NFS, in which concept or root squashing was explored.   
 
 
+
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/be465f7e-762e-41f2-8259-bbf545af075c" />
+
+
